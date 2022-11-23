@@ -3,9 +3,9 @@
 ---
 
 
-## Idea of the ESSEN_APP project.
+## Idea of the ESSEN_APP Project.
 
-There is so many Resturant and Food app, but in Essen_App customer is able to order the food Morning 7am to night 11.30. customer able to order there food according to time duration different type of menu items. like in Morning have only Breakfast Menu Items.
+There is so many Resturant and Food app, but in Essen_App customer is able to order the food Morning 7am to night 11.30 and food is cuisines from different state of India. customer able to order there food according to time duration different type of menu items. like in Morning have only Breakfast Menu Items.
 
 The Idea of this app customer able to order the food according to time. morning only serve breakfast,afternoon lunch and evening snacks and night only availbale dinner menu items.
 
